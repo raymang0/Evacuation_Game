@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 178fea9d12889400dbd401c47499e9fc
+timeCreated: 1477356929
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2e83465ad5136be68e281a7bd196b769
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -2.3325315, y: 1.5352473, z: 2.3616452}
+      lookAt: {x: 58.469913, y: -25.13426, z: -48.057873}
+      up: {x: 0.24624853, y: 0.9474518, z: -0.20419791}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 10
+    100002: Group 100
+    100004: Group 102
+    100006: Group 104
+    100008: Group 106
+    100010: Group 108
+    100012: Group 110
+    100014: Group 112
+    100016: Group 114
+    100018: Group 116
+    100020: Group 118
+    100022: Group 12
+    100024: Group 120
+    100026: Group 122
+    100028: Group 124
+    100030: Group 126
+    100032: Group 128
+    100034: Group 130
+    100036: Group 132
+    100038: Group 136
+    100040: Group 138
+    100042: Group 140
+    100044: Group 142
+    100046: Group 144
+    100048: Group 146
+    100050: Group 148
+    100052: Group 15
+    100054: Group 150
+    100056: Group 152
+    100058: Group 154
+    100060: Group 156
+    100062: Group 158
+    100064: Group 160
+    100066: Group 162
+    100068: Group 164
+    100070: Group 166
+    100072: Group 168
+    100074: Group 170
+    100076: Group 172
+    100078: Group 174
+    100080: Group 176
+    100082: Group 178
+    100084: Group 18
+    100086: Group 28
+    100088: Group 3
+    100090: Group 30
+    100092: Group 32
+    100094: Group 34
+    100096: Group 36
+    100098: Group 38
+    100100: Group 4
+    100102: Group 40
+    100104: Group 42
+    100106: Group 44
+    100108: Group 47
+    100110: Group 49
+    100112: Group 51
+    100114: Group 53
+    100116: Group 55
+    100118: Group 57
+    100120: Group 59
+    100122: Group 6
+    100124: Group 61
+    100126: Group 63
+    100128: Group 8
+    100130: Group 82
+    100132: Group 86
+    100134: Group 90
+    100136: Group 92
+    100138: Group 94
+    100140: Group 96
+    100142: Group 98
+    100144: Group#10
+    100146: Group#10 1
+    100148: Group#19
+    100150: Group#19 1
+    100152: Group#22
+    100154: Group#22 1
+    100156: Group#24
+    100158: Group#24 1
+    100160: Group#3
+    100162: Group#3 1
+    100164: Group#34
+    100166: Group#34 1
+    100168: Group#4
+    100170: Group#4 1
+    100172: Group#4 2
+    100174: Group#4 3
+    100176: Group#5
+    100178: Group#5 1
+    100180: Group#9
+    100182: Group#9 1
+    100184: //RootNode
+    100186: V-Ray Infinite Plane
+    400000: Group 10
+    400002: Group 100
+    400004: Group 102
+    400006: Group 104
+    400008: Group 106
+    400010: Group 108
+    400012: Group 110
+    400014: Group 112
+    400016: Group 114
+    400018: Group 116
+    400020: Group 118
+    400022: Group 12
+    400024: Group 120
+    400026: Group 122
+    400028: Group 124
+    400030: Group 126
+    400032: Group 128
+    400034: Group 130
+    400036: Group 132
+    400038: Group 136
+    400040: Group 138
+    400042: Group 140
+    400044: Group 142
+    400046: Group 144
+    400048: Group 146
+    400050: Group 148
+    400052: Group 15
+    400054: Group 150
+    400056: Group 152
+    400058: Group 154
+    400060: Group 156
+    400062: Group 158
+    400064: Group 160
+    400066: Group 162
+    400068: Group 164
+    400070: Group 166
+    400072: Group 168
+    400074: Group 170
+    400076: Group 172
+    400078: Group 174
+    400080: Group 176
+    400082: Group 178
+    400084: Group 18
+    400086: Group 28
+    400088: Group 3
+    400090: Group 30
+    400092: Group 32
+    400094: Group 34
+    400096: Group 36
+    400098: Group 38
+    400100: Group 4
+    400102: Group 40
+    400104: Group 42
+    400106: Group 44
+    400108: Group 47
+    400110: Group 49
+    400112: Group 51
+    400114: Group 53
+    400116: Group 55
+    400118: Group 57
+    400120: Group 59
+    400122: Group 6
+    400124: Group 61
+    400126: Group 63
+    400128: Group 8
+    400130: Group 82
+    400132: Group 86
+    400134: Group 90
+    400136: Group 92
+    400138: Group 94
+    400140: Group 96
+    400142: Group 98
+    400144: Group#10
+    400146: Group#10 1
+    400148: Group#19
+    400150: Group#19 1
+    400152: Group#22
+    400154: Group#22 1
+    400156: Group#24
+    400158: Group#24 1
+    400160: Group#3
+    400162: Group#3 1
+    400164: Group#34
+    400166: Group#34 1
+    400168: Group#4
+    400170: Group#4 1
+    400172: Group#4 2
+    400174: Group#4 3
+    400176: Group#5
+    400178: Group#5 1
+    400180: Group#9
+    400182: Group#9 1
+    400184: //RootNode
+    400186: V-Ray Infinite Plane
+    2300000: Group 10
+    2300002: Group 100
+    2300004: Group 102
+    2300006: Group 104
+    2300008: Group 106
+    2300010: Group 108
+    2300012: Group 110
+    2300014: Group 112
+    2300016: Group 114
+    2300018: Group 116
+    2300020: Group 118
+    2300022: Group 12
+    2300024: Group 120
+    2300026: Group 122
+    2300028: Group 124
+    2300030: Group 126
+    2300032: Group 128
+    2300034: Group 130
+    2300036: Group 132
+    2300038: Group 136
+    2300040: Group 138
+    2300042: Group 140
+    2300044: Group 142
+    2300046: Group 144
+    2300048: Group 146
+    2300050: Group 148
+    2300052: Group 15
+    2300054: Group 150
+    2300056: Group 152
+    2300058: Group 154
+    2300060: Group 156
+    2300062: Group 158
+    2300064: Group 160
+    2300066: Group 162
+    2300068: Group 164
+    2300070: Group 166
+    2300072: Group 168
+    2300074: Group 170
+    2300076: Group 172
+    2300078: Group 174
+    2300080: Group 176
+    2300082: Group 178
+    2300084: Group 18
+    2300086: Group 28
+    2300088: Group 30
+    2300090: Group 32
+    2300092: Group 34
+    2300094: Group 36
+    2300096: Group 38
+    2300098: Group 4
+    2300100: Group 40
+    2300102: Group 42
+    2300104: Group 44
+    2300106: Group 47
+    2300108: Group 49
+    2300110: Group 51
+    2300112: Group 53
+    2300114: Group 55
+    2300116: Group 57
+    2300118: Group 59
+    2300120: Group 6
+    2300122: Group 61
+    2300124: Group 63
+    2300126: Group 8
+    2300128: Group 82
+    2300130: Group 86
+    2300132: Group 90
+    2300134: Group 92
+    2300136: Group 94
+    2300138: Group 96
+    2300140: Group 98
+    2300142: Group#10
+    2300144: Group#10 1
+    2300146: Group#22
+    2300148: Group#22 1
+    2300150: Group#3
+    2300152: Group#3 1
+    2300154: Group#34
+    2300156: Group#34 1
+    2300158: Group#4
+    2300160: Group#4 1
+    2300162: Group#4 2
+    2300164: Group#4 3
+    2300166: Group#9
+    2300168: Group#9 1
+    2300170: V-Ray Infinite Plane
+    3300000: Group 10
+    3300002: Group 100
+    3300004: Group 102
+    3300006: Group 104
+    3300008: Group 106
+    3300010: Group 108
+    3300012: Group 110
+    3300014: Group 112
+    3300016: Group 114
+    3300018: Group 116
+    3300020: Group 118
+    3300022: Group 12
+    3300024: Group 120
+    3300026: Group 122
+    3300028: Group 124
+    3300030: Group 126
+    3300032: Group 128
+    3300034: Group 130
+    3300036: Group 132
+    3300038: Group 136
+    3300040: Group 138
+    3300042: Group 140
+    3300044: Group 142
+    3300046: Group 144
+    3300048: Group 146
+    3300050: Group 148
+    3300052: Group 15
+    3300054: Group 150
+    3300056: Group 152
+    3300058: Group 154
+    3300060: Group 156
+    3300062: Group 158
+    3300064: Group 160
+    3300066: Group 162
+    3300068: Group 164
+    3300070: Group 166
+    3300072: Group 168
+    3300074: Group 170
+    3300076: Group 172
+    3300078: Group 174
+    3300080: Group 176
+    3300082: Group 178
+    3300084: Group 18
+    3300086: Group 28
+    3300088: Group 30
+    3300090: Group 32
+    3300092: Group 34
+    3300094: Group 36
+    3300096: Group 38
+    3300098: Group 4
+    3300100: Group 40
+    3300102: Group 42
+    3300104: Group 44
+    3300106: Group 47
+    3300108: Group 49
+    3300110: Group 51
+    3300112: Group 53
+    3300114: Group 55
+    3300116: Group 57
+    3300118: Group 59
+    3300120: Group 6
+    3300122: Group 61
+    3300124: Group 63
+    3300126: Group 8
+    3300128: Group 82
+    3300130: Group 86
+    3300132: Group 90
+    3300134: Group 92
+    3300136: Group 94
+    3300138: Group 96
+    3300140: Group 98
+    3300142: Group#10
+    3300144: Group#10 1
+    3300146: Group#22
+    3300148: Group#22 1
+    3300150: Group#3
+    3300152: Group#3 1
+    3300154: Group#34
+    3300156: Group#34 1
+    3300158: Group#4
+    3300160: Group#4 1
+    3300162: Group#4 2
+    3300164: Group#4 3
+    3300166: Group#9
+    3300168: Group#9 1
+    3300170: V-Ray Infinite Plane
+    4300000: Mesh V-Ray Infinite Plane
+    4300002: Mesh Group 4
+    4300004: Mesh Group 6
+    4300006: Mesh Group 8
+    4300008: Mesh Group 12
+    4300010: Mesh Group 15
+    4300012: Mesh Group#4
+    4300014: Mesh Group#3
+    4300016: Mesh Group 28
+    4300018: Mesh Group 30
+    4300020: Mesh Group 32
+    4300022: Mesh Group 34
+    4300024: Mesh Group 36
+    4300026: Mesh Group 38
+    4300028: Mesh Group 40
+    4300030: Mesh Group 42
+    4300032: Mesh Group 44
+    4300034: Mesh Group#9
+    4300036: Mesh Group#34
+    4300038: Mesh Group#22
+    4300040: Mesh Group 82
+    4300042: Mesh Group#10
+    4300044: Mesh Group 90
+    4300046: Mesh Group 92
+    4300048: Mesh Group 94
+    4300050: Mesh Group 96
+    4300052: Mesh Group 98
+    4300054: Mesh Group 100
+    4300056: Mesh Group 102
+    4300058: Mesh Group 104
+    4300060: Mesh Group 106
+    4300062: Mesh Group 108
+    4300064: Mesh Group 110
+    4300066: Mesh Group 112
+    4300068: Mesh Group 114
+    4300070: Mesh Group 116
+    4300072: Mesh Group 118
+    4300074: Mesh Group 120
+    4300076: Mesh Group 122
+    4300078: Mesh Group 124
+    4300080: Mesh Group 126
+    4300082: Mesh Group 128
+    4300084: Mesh Group 130
+    4300086: Mesh Group 132
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
